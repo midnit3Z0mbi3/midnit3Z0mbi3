@@ -1,6 +1,6 @@
 <img alt="github banner. hex #d176a4 and #000000" width="100%" src=banner.png>
 
-**Definition of Open-Source Intelligence (OSINT)**
+**Definition of Open-Source Intelligence (OSINT) :**
 
 According to the U.S. government, open-source intelligence (OSINT) is defined as “intelligence that is
 produced from publicly available information and is collected, exploited, and disseminated in a timely

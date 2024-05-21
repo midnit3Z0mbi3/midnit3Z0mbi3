@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Z0mbi3, an Open Source Intelligence researcher.
 
-🌱 I am always learning more about OSINT, Cybersecurity, and Linux.
+🌱 I am always learning more about OSINT, Cybersecurity, and anything Linux.
 
 💬 Ask me about anything OSINT research.
 

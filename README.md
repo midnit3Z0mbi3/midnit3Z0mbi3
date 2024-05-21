@@ -14,7 +14,7 @@ manner to an appropriate audience for the purpose of addressing a specific intel
 
 <img alt="osint exercise" width="450" src="https://gralhix.com/wp-content/uploads/2023/08/coverosintexercise016.webp?w=736">
 
-**AND**
+AND
 
 <a href="https://app.hackthebox.com/profile/1947172">HACKTHEBOX</a> modules and labs.
 

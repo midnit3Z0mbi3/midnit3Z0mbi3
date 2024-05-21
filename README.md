@@ -4,7 +4,7 @@
 
 
 
-🌱 I am always learning more about **OSINT**, Cybersecurity, and anything Linux.
+🌱 I am always learning more about Open Source Intelligence (**OSINT**), Cybersecurity, and anything Linux.
 
 💬 Ask me anything about Open Source Intelligence (**OSINT**).
 

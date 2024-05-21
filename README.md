@@ -10,6 +10,12 @@ manner to an appropriate audience for the purpose of addressing a specific intel
 
 💬 Ask me anything about Open Source Intelligence (**OSINT**).
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnit3Z0mbi3&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midnit3Z0mbi3&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=midnit3Z0mbi3&theme=dracula)](https://git.io/streak-stats)
+
 🔭 I am currently working on <a href="https://gralhix.com/list-of-osint-exercises/">Sophia Santos'</a> **OSINT** exercises.
 
 <img alt="osint exercise" width="450" src="https://gralhix.com/wp-content/uploads/2023/08/coverosintexercise016.webp?w=736">
@@ -21,11 +27,6 @@ And
 <img alt="hack the box" width="450" src="https://i0.wp.com/www.cybercareers.blog/wp-content/uploads/2023/01/hackthebox.jpeg?fit=1400%2C731&ssl=1">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnit3Z0mbi3&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midnit3Z0mbi3&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=midnit3Z0mbi3&theme=dracula)](https://git.io/streak-stats)
 
 
 

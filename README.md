@@ -2,7 +2,7 @@
 
 **Definition of Open-Source Intelligence (OSINT) :**
 
-According to the U.S. government, open-source intelligence (OSINT) is defined as “intelligence that is
+According to the U.S. government, open-source intelligence (**OSINT**) is defined as “intelligence that is
 produced from publicly available information and is collected, exploited, and disseminated in a timely
 manner to an appropriate audience for the purpose of addressing a specific intelligence requirement.”
 

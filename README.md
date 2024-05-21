@@ -6,6 +6,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=midnit3Z0mbi3&theme=dracula)](https://git.io/streak-stats)
 
+<img align="right" alt="Coding" width="400" src="https://www.pexels.com/photo/glow-in-the-dark-keyboard-14011035/">
+
 
 <!--
 **midnit3Z0mbi3/midnit3Z0mbi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,16 +3,15 @@
 <img alt="github banner. hex #282a36 and #ff6e96" width="100%" src=banner(4).png>
 
 
-
-🌱 I am always learning more about Open Source Intelligence (**OSINT**), Cybersecurity, and anything Linux.
-
-💬 Ask me anything about Open Source Intelligence (**OSINT**).
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnit3Z0mbi3&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midnit3Z0mbi3&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=midnit3Z0mbi3&theme=dracula)](https://git.io/streak-stats)
+
+🌱 I am always learning more about Open Source Intelligence (**OSINT**), Cybersecurity, and anything Linux.
+
+💬 Ask me anything about Open Source Intelligence (**OSINT**).
 
 🔭 I am currently working on <a href="https://gralhix.com/list-of-osint-exercises/">Sophia Santos'</a> **OSINT** exercises.
 

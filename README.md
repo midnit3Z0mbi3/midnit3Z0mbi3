@@ -1,4 +1,4 @@
-## Greetings, I am Z0mbi3. An Open Source Intelligence researcher.
+<img alt="github banner" width="500" src=banner.png>
 
 🌱 I am always learning more about OSINT, Cybersecurity, and anything Linux.
 

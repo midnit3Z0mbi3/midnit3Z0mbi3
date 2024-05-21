@@ -10,7 +10,7 @@ manner to an appropriate audience for the purpose of addressing a specific intel
 
 💬 Ask me anything about **OSINT**.
 
-🔭 I am currently working on <a href="https://gralhix.com/list-of-osint-exercises/">Sophia Santos'</a> OSINT exercises.
+🔭 I am currently working on <a href="https://gralhix.com/list-of-osint-exercises/">Sophia Santos'</a> **OSINT** exercises.
 
 <img alt="osint exercise" width="450" src="https://gralhix.com/wp-content/uploads/2023/08/coverosintexercise016.webp?w=736">
 

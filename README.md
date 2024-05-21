@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on Sophia Santos OSINT exercises.
 
-<img alt="Coding" width="500" src="https://gralhix.com/wp-content/uploads/2023/08/coverosintexercise016.webp?w=736">
+<img alt="Coding" width="450" src="https://gralhix.com/wp-content/uploads/2023/08/coverosintexercise016.webp?w=736">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnit3Z0mbi3&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 

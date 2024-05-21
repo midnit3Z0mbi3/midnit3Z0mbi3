@@ -8,7 +8,7 @@ manner to an appropriate audience for the purpose of addressing a specific intel
 
 🌱 I am always learning more about **OSINT**, Cybersecurity, and anything Linux.
 
-💬 Ask me anything about **OSINT**.
+💬 Ask me anything about Open Source Intelligence (**OSINT**).
 
 🔭 I am currently working on <a href="https://gralhix.com/list-of-osint-exercises/">Sophia Santos'</a> **OSINT** exercises.
 

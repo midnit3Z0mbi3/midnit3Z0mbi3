@@ -2,7 +2,7 @@
 
 🌱 I am always learning more about OSINT, Cybersecurity, and anything Linux.
 
-💬 Ask me about anything OSINT research.
+💬 Ask me about anything OSINT.
 
 🔭 I’m currently working on <a href="url">Sophia Santos'</a> OSINT exercises.
 

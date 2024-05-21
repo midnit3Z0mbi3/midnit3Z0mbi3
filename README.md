@@ -1,7 +1,5 @@
 <img alt="github banner. hex #282a36 and #ff6e96" width="100%" src=banner(1).png>
 
-**Definition of Open-Source Intelligence (OSINT) :**
-
 <img alt="github banner. hex #282a36 and #ff6e96" width="100%" src=banner(4).png>
 
 

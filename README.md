@@ -4,7 +4,7 @@
 
 💬 Ask me about anything OSINT research.
 
-🔭 I’m currently working on Sophia Santos' OSINT exercises.
+🔭 I’m currently working on <a href="url">Sophia Santos'</a> OSINT exercises.
 
 <img alt="osint exercise" width="450" src="https://gralhix.com/wp-content/uploads/2023/08/coverosintexercise016.webp?w=736">
 

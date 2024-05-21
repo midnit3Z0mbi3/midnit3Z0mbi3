@@ -6,7 +6,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=midnit3Z0mbi3&theme=dracula)](https://git.io/streak-stats)
 
-<img align="right" alt="Coding" width="400" src="https://www.pexels.com/photo/glow-in-the-dark-keyboard-14011035/">
+<img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/14011035/pexels-photo-14011035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
 
 
 <!--

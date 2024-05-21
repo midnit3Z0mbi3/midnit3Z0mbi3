@@ -1,8 +1,10 @@
 <img alt="github banner. hex #282a36 and #ff6e96" width="100%" src=banner(1).png>
 
+<img alt="github banner. hex #282a36 and #ff6e96" width="100%" src=banner(3).png>
+
+
 **Definition of Open-Source Intelligence (OSINT) :**
 
-According to the U.S. government, open-source intelligence (**OSINT**) is defined as
 
 🌱 I am always learning more about **OSINT**, Cybersecurity, and anything Linux.
 

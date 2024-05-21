@@ -1,4 +1,4 @@
-<img alt="github banner" width="80%" src=banner.png>
+<img align="center" alt="github banner" width="80%" src=banner.png>
 
 🌱 I am always learning more about OSINT, Cybersecurity, and anything Linux.
 

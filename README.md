@@ -14,6 +14,10 @@ manner to an appropriate audience for the purpose of addressing a specific intel
 
 <img alt="osint exercise" width="450" src="https://gralhix.com/wp-content/uploads/2023/08/coverosintexercise016.webp?w=736">
 
+and <a href="https://www.hackthebox.com/">Hack the box</a> modules and labs.
+
+<img alt="hack the box" width="450" src="https://i0.wp.com/www.cybercareers.blog/wp-content/uploads/2023/01/hackthebox.jpeg?fit=1400%2C731&ssl=1">
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnit3Z0mbi3&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 

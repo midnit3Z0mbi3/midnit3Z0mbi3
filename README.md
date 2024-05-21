@@ -1,4 +1,4 @@
-## Greetings 👋 I am Z0mbi3, an Open Source Intelligence researcher.
+## Greetings, I am Z0mbi3. An Open Source Intelligence researcher.
 
 🌱 I am always learning more about OSINT, Cybersecurity, and anything Linux.
 

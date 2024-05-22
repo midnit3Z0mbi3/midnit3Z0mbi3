@@ -22,7 +22,7 @@ And
 
 <a href="https://app.hackthebox.com/profile/1947172">HACKTHEBOX</a> labs and modules.
 
-<img alt="hack the box" width="450" src="https://i0.wp.com/www.cybercareers.blog/wp-content/uploads/2023/01/hackthebox.jpeg?fit=1400%2C731&ssl=1">
+<img alt="hack the box" align="right" width="450" src="https://i0.wp.com/www.cybercareers.blog/wp-content/uploads/2023/01/hackthebox.jpeg?fit=1400%2C731&ssl=1">
 
 
 

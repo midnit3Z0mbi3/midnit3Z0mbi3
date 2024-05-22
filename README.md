@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="7129558288123462642" data-share-method="host" data-aspect-ratio="1.19712" data-width="100%"><a href="https://tenor.com/view/zombie-age-%D0%B7%D0%BE%D0%BC%D0%B1%D0%B8-zombie-worker-zombie-walking-gif-7129558288123462642">Zombie Age зомби GIF</a>from <a href="https://tenor.com/search/zombie+age-gifs">Zombie Age GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media1.tenor.com/m/YvFHfTEKg_IAAAAC/zombie-age-%D0%B7%D0%BE%D0%BC%D0%B1%D0%B8.gif" al="zombie walking gif">
 
 <img alt="github banner. hex #282a36 and #ff6e96" width="100%" src=banner(8).png>
 

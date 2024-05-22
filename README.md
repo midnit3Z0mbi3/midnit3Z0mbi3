@@ -8,8 +8,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=midnit3Z0mbi3&theme=dracula)](https://git.io/streak-stats)
 
-<img alt="avatar the last air bender gif." width="700" src="https://y.yarn.co/7fb09aee-8309-4bf1-960c-6f0d3d47ef61_text.gif">
-
 💬 Ask me anything about Open Source Intelligence (**OSINT**).
 
 🔭 I am currently working on <a href="https://gralhix.com/list-of-osint-exercises/">Sophia Santos'</a> **OSINT** exercises && <a href="https://app.hackthebox.com/profile/1947172">HACKTHEBOX</a> labs and modules.

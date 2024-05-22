@@ -12,7 +12,7 @@
 
 <img alt="avatar the last air bender gif." width="500" src="https://y.yarn.co/7fb09aee-8309-4bf1-960c-6f0d3d47ef61_text.gif">
 
-🌱 I am always learning more about Open Source Intelligence (**OSINT**), Cybersecurity, and Linux.
+🌱 Never stop learning. I am always learning more about Open Source Intelligence (**OSINT**), Cybersecurity, and Linux.
 
 💬 Ask me anything about Open Source Intelligence (**OSINT**).
 

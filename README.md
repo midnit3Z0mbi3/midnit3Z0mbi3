@@ -2,7 +2,7 @@
 
 <img alt="github banner. hex #282a36 and #ff6e96" width="100%" src=banner(6).png>
 
-<img alt="king of the hill tv show gif of Dale Gribble." align= "right" src="https://y.yarn.co/c589fa88-3773-4bde-ba1c-235ee1b323d3_text.gif">
+<img alt="king of the hill tv show gif of Dale Gribble." src="https://y.yarn.co/c589fa88-3773-4bde-ba1c-235ee1b323d3_text.gif">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midnit3Z0mbi3&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -16,7 +16,7 @@
 
 🔭 I am currently working on <a href="https://gralhix.com/list-of-osint-exercises/">Sophia Santos'</a> **OSINT** exercises && <a href="https://app.hackthebox.com/profile/1947172">HACKTHEBOX</a> labs and modules.
 
-<img alt="hack the box" align="right" width="450" src="https://i0.wp.com/www.cybercareers.blog/wp-content/uploads/2023/01/hackthebox.jpeg?fit=1400%2C731&ssl=1">
+<img alt="hack the box" width="450" src="https://i0.wp.com/www.cybercareers.blog/wp-content/uploads/2023/01/hackthebox.jpeg?fit=1400%2C731&ssl=1">
 
 <img alt="osint exercise" width="450" src="https://gralhix.com/wp-content/uploads/2023/08/coverosintexercise016.webp?w=736">
 

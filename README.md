@@ -23,7 +23,7 @@ And
 <img alt="hack the box" width="450" src="https://i0.wp.com/www.cybercareers.blog/wp-content/uploads/2023/01/hackthebox.jpeg?fit=1400%2C731&ssl=1">
 
 
-<img alt="king of the hill tv show gif of Dale Gribble." width="450" src="https://y.yarn.co/c589fa88-3773-4bde-ba1c-235ee1b323d3_text.gif">
+<img alt="king of the hill tv show gif of Dale Gribble." src="https://y.yarn.co/c589fa88-3773-4bde-ba1c-235ee1b323d3_text.gif">
 
 
 

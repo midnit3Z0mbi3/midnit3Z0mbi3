@@ -2,10 +2,9 @@
 
 <img alt="github banner. hex #282a36 and #ff6e96" width="100%" src=banner(6).png>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midnit3Z0mbi3&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnit3Z0mbi3&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midnit3Z0mbi3&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=midnit3Z0mbi3&theme=dracula)](https://git.io/streak-stats)
 

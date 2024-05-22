@@ -10,7 +10,7 @@
     🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
 </pre>
 <br><br>
-<img src="https://y.yarn.co/c589fa88-3773-4bde-ba1c-235ee1b323d3_text.gif" height="100" />
+<img src="https://media1.tenor.com/m/YvFHfTEKg_IAAAAC/zombie-age-%D0%B7%D0%BE%D0%BC%D0%B1%D0%B8.gif" al="zombie walking gif" height="100" />
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)

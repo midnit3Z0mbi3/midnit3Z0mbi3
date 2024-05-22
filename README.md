@@ -1,4 +1,4 @@
-<img alt="king of the hill tv show gif of Dale Gribble." src="https://y.yarn.co/c589fa88-3773-4bde-ba1c-235ee1b323d3_text.gif">
+<img alt="avatar the last air bender gif." src="https://y.yarn.co/7fb09aee-8309-4bf1-960c-6f0d3d47ef61_text.gif">
 
 <img alt="github banner. hex #282a36 and #ff6e96" width="100%" src=banner(8).png>
 

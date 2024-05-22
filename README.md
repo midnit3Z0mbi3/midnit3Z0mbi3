@@ -4,7 +4,7 @@
 <br><br>
 <pre>
     🥷 OSINT • 🌍 GIS • Linux Sys Admin
-    💻 Bash Shell • Python 
+    💻 Bash • 🐍 Python 
     🥸 Privacy Enthusiast • 
     🎮 Music • Games • Anime • AI • Art
     🍔 Cooking • 🧘🏽‍♂️ Yoga & Meditation  

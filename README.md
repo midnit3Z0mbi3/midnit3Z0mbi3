@@ -3,9 +3,7 @@
 
 </div>
 
-<img alt="github banner. hex #282a36 and #ff6e96" width="100%" src=banner(8).png>
 
-<img alt="github banner. hex #282a36 and #ff6e96" width="100%" src=banner(6).png>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midnit3Z0mbi3&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 

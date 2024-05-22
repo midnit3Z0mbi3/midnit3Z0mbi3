@@ -8,11 +8,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=midnit3Z0mbi3&theme=dracula)](https://git.io/streak-stats)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
-
 <img alt="avatar the last air bender gif." width="500" src="https://y.yarn.co/7fb09aee-8309-4bf1-960c-6f0d3d47ef61_text.gif">
-
-🌱 Never stop learning. I am always learning more about Open Source Intelligence (**OSINT**), Cybersecurity, and Linux.
 
 💬 Ask me anything about Open Source Intelligence (**OSINT**).
 

@@ -7,7 +7,7 @@
     💻 Bash Shell • Python 
     🥸 Privacy Enthusiast • 
     🎮 Music • Games • Anime • Code • Art
-    🍔 Cooking • Yoga & Meditation 🧘🏽‍♂️ 
+    🍔 Cooking • 🧘🏽‍♂️ Yoga & Meditation  
 </pre>
 <br><br>
 <img src="https://media1.tenor.com/m/YvFHfTEKg_IAAAAC/zombie-age-%D0%B7%D0%BE%D0%BC%D0%B1%D0%B8.gif" al="zombie walking gif" height="100" />

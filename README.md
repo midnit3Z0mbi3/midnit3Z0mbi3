@@ -17,5 +17,6 @@
 [![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
 [![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
 [![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/midnit3_Z0mbi3)
 [![](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1947172)
 </div>

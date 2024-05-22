@@ -8,8 +8,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=midnit3Z0mbi3&theme=dracula)](https://git.io/streak-stats)
 
-💬 Ask me anything about Open Source Intelligence (**OSINT**).
-
 <!--
 **midnit3Z0mbi3/midnit3Z0mbi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

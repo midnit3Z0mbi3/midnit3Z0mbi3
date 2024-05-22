@@ -14,15 +14,11 @@
 
 💬 Ask me anything about Open Source Intelligence (**OSINT**).
 
-🔭 I am currently working on <a href="https://gralhix.com/list-of-osint-exercises/">Sophia Santos'</a> **OSINT** exercises.
+🔭 I am currently working on <a href="https://gralhix.com/list-of-osint-exercises/">Sophia Santos'</a> **OSINT** exercises. And <a href="https://app.hackthebox.com/profile/1947172">HACKTHEBOX</a> labs and modules.
 
 <img alt="hack the box" align="right" width="450" src="https://i0.wp.com/www.cybercareers.blog/wp-content/uploads/2023/01/hackthebox.jpeg?fit=1400%2C731&ssl=1">
 
 <img alt="osint exercise" width="450" src="https://gralhix.com/wp-content/uploads/2023/08/coverosintexercise016.webp?w=736">
-
-And
-
-<a href="https://app.hackthebox.com/profile/1947172">HACKTHEBOX</a> labs and modules.
 
 
 

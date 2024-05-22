@@ -8,6 +8,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=midnit3Z0mbi3&theme=dracula)](https://git.io/streak-stats)
 
+<img alt="king of the hill tv show gif of Dale Gribble." align= "right" src="https://y.yarn.co/c589fa88-3773-4bde-ba1c-235ee1b323d3_text.gif">
+
 🌱 I am always learning more about Open Source Intelligence (**OSINT**), Cybersecurity, and Linux.
 
 💬 Ask me anything about Open Source Intelligence (**OSINT**).
@@ -21,10 +23,6 @@ And
 <a href="https://app.hackthebox.com/profile/1947172">HACKTHEBOX</a> labs and modules.
 
 <img alt="hack the box" width="450" src="https://i0.wp.com/www.cybercareers.blog/wp-content/uploads/2023/01/hackthebox.jpeg?fit=1400%2C731&ssl=1">
-
-
-<img alt="king of the hill tv show gif of Dale Gribble." align= "right" src="https://y.yarn.co/c589fa88-3773-4bde-ba1c-235ee1b323d3_text.gif">
-
 
 
 

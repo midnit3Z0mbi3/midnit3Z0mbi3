@@ -22,6 +22,7 @@
 </div>
 <br><br>
 <div align="center">
+    Thanks for stopping by... 
     <img src="https://y.yarn.co/c589fa88-3773-4bde-ba1c-235ee1b323d3_text.gif" al="dale, from king of the hill tv show"/>
 </div>
 <br><br><br>

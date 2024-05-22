@@ -27,7 +27,7 @@
             Thanks for stopping by... 👋 ✌️ 🙌
         </p>
         <p>
-            Give me a star if you like my repo's ⭐ ⭐ ⭐
+            Give me a star to show some love ⭐ ⭐ ⭐
         </p>
     </h1>
 </div>

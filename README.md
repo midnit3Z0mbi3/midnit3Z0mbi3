@@ -1,6 +1,6 @@
 <img alt="github banner. hex #282a36 and #ff6e96" width="100%" src=banner(5).png>
 
-<img alt="github banner. hex #282a36 and #ff6e96" width="100%" src=banner(4).png>
+<img alt="github banner. hex #282a36 and #ff6e96" width="100%" src=banner(6).png>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnit3Z0mbi3&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

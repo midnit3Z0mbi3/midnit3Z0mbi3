@@ -1,4 +1,7 @@
-<img src="https://media1.tenor.com/m/YvFHfTEKg_IAAAAC/zombie-age-%D0%B7%D0%BE%D0%BC%D0%B1%D0%B8.gif" al="zombie walking gif">
+<div align="center">
+  <img src="https://media1.tenor.com/m/YvFHfTEKg_IAAAAC/zombie-age-%D0%B7%D0%BE%D0%BC%D0%B1%D0%B8.gif" al="zombie walking gif">
+
+</div>
 
 <img alt="github banner. hex #282a36 and #ff6e96" width="100%" src=banner(8).png>
 

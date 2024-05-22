@@ -22,7 +22,7 @@
 </div>
 <br><br>
 <div align="center">
-    Thanks for stopping by... 👋 ✌️ 🙌
+    <font size="5">Thanks for stopping by... 👋 ✌️ 🙌</font>
 
 </div>
 <br><br><br>

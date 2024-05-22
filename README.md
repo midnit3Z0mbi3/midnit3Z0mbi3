@@ -22,10 +22,11 @@
 </div>
 <br><br>
 <div align="center">
-    <p style="font-size:100px">
-        Thanks for stopping by... 👋 ✌️ 🙌
-    </p>
-
+    <h1>
+        <p>
+            Thanks for stopping by... 👋 ✌️ 🙌
+        </p>
+    </h1>
 </div>
 <br><br><br>
 <br><br>

@@ -6,7 +6,7 @@
     🥷 OSINT • 🌍 GIS • 🐧 Linux Sys Admin
     💻 Bash • 🐍 Python 
     🥸 Privacy Enthusiast • 
-    🎮 Music • TV • Cartoons • AI • Art
+    🎵 Music • Movies • Cartoons • 📺 TV Shows • AI 
     🍔 Cooking • 🧘🏽‍♂️ Yoga & Meditation  
 </pre>
 <br><br>

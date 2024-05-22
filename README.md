@@ -22,7 +22,7 @@
 </div>
 <br><br>
 <div align="center">
-    <p style="font-size:30px">
+    <p style="font-size:100px">
         Thanks for stopping by... 👋 ✌️ 🙌
     </p>
 

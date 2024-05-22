@@ -8,7 +8,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=midnit3Z0mbi3&theme=dracula)](https://git.io/streak-stats)
 
-🌱 I am always learning more about Open Source Intelligence (**OSINT**), Cybersecurity, and anything Linux.
+🌱 I am always learning more about Open Source Intelligence (**OSINT**), Cybersecurity, and Linux.
 
 💬 Ask me anything about Open Source Intelligence (**OSINT**).
 

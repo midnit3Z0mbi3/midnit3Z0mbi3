@@ -20,3 +20,6 @@
 [![](https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white)](https://account.wire.com/user-profile/?id=7830b3f6-705d-48ab-9c55-4fe601d35ed0)
 [![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:midnit3Z0mbi3@proton.me)
 </div>
+<div>
+    <img src="https://y.yarn.co/c589fa88-3773-4bde-ba1c-235ee1b323d3_text.gif" al="dale, from king of the hill tv show"/>
+</div>

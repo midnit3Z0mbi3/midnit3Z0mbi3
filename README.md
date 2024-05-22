@@ -1,4 +1,4 @@
-<img alt="avatar the last air bender gif." src="https://y.yarn.co/7fb09aee-8309-4bf1-960c-6f0d3d47ef61_text.gif">
+<img alt="avatar the last air bender gif." align="center" src="https://y.yarn.co/7fb09aee-8309-4bf1-960c-6f0d3d47ef61_text.gif">
 
 <img alt="github banner. hex #282a36 and #ff6e96" width="100%" src=banner(8).png>
 

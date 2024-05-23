@@ -22,14 +22,14 @@
 </div>
 <br><br>
 <div align="center">
-    <h1>
+    <h2>
         <p>
             Thanks for stopping by... 👋 ✌️ 🙌
         </p>
         <p>
             Give me a star to show some love ⭐ ⭐ ⭐
         </p>
-    </h1>
+    </h2>
 </div>
 <br><br><br>
 <br><br>

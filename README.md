@@ -24,10 +24,10 @@
 <div align="center">
     <h2>
         <p>
-            Thanks for stopping by... 👋 ✌️ 🙌
+            Give me a star to show some love ⭐ ⭐ ⭐
         </p>
         <p>
-            Give me a star to show some love ⭐ ⭐ ⭐
+            Thanks for stopping by... 👋 ✌️ 🙌
         </p>
     </h2>
 </div>

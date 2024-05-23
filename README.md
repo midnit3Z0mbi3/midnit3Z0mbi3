@@ -21,19 +21,4 @@
 [![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:midnit3Z0mbi3@proton.me)
 </div>
 <br><br>
-<div align="center">
-    <h2>
-        <p>
-            Give me a star to show some love ⭐ ⭐ ⭐
-        </p>
-        <p>
-            Thanks for stopping by... 👋 ✌️ 🙌
-        </p>
-    </h2>
-</div>
-<br><br><br>
-<br><br>
-<div align="center">
-    <img src="https://y.yarn.co/c589fa88-3773-4bde-ba1c-235ee1b323d3_text.gif" al="dale, from king of the hill tv show"/>
-</div>
-<br><br><br>
+

@@ -9,7 +9,7 @@
     🍔 Cooking • 🧘🏽‍♂️ Yoga & Meditation  
 </pre>
 <br><br>
-<img src="https://giffiles.alphacoders.com/121/12161.gif" al=" Sasuke Uchiha Naruto Uzumaki Anime Naruto Gif" width="20%" height="20%" />
+<img src="https://giffiles.alphacoders.com/121/12161.gif" al=" Sasuke Uchiha Naruto Uzumaki Anime Naruto Gif" width="40%" height="40%" />
 <br><br><br>
     
 

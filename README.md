@@ -9,7 +9,7 @@
     🍔 Cooking • 🧘🏽‍♂️ Yoga & Meditation  
 </pre>
 <br><br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXg0djM1dXh3bDY2NmM3eGR0bHdzbjQ0aGN0eDlzc2VuNjNoN2doaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/csF1zZQ5Qu0Vk3anHj/giphy.gif" al="zombie walking gif" height="100" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXg0djM1dXh3bDY2NmM3eGR0bHdzbjQ0aGN0eDlzc2VuNjNoN2doaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/csF1zZQ5Qu0Vk3anHj/giphy.gif" al="zombie walking gif" width="65%" height="65%" />
 <br><br><br>
     
 

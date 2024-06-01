@@ -21,6 +21,6 @@
 </div>
 <br><br>
 <div align="center">
-    <img src="https://giffiles.alphacoders.com/432/432.gif" width="80%" height="80%">
+    <img src="https://giffiles.alphacoders.com/432/432.gif" width="500%" height="50%">
 </div>
 

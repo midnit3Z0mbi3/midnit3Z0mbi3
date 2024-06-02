@@ -20,9 +20,6 @@
 [![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:midnit3Z0mbi3@proton.me)
 </div>
 <br><br>
-<div align="center">
-</div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnit3Z0mbi3&layout=donut)](https://github.com/midnit3Z0mbi3)
 
 
 

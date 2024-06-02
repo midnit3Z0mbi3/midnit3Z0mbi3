@@ -21,7 +21,8 @@
 </div>
 <br><br>
 <div align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnit3Z0mbi3&layout=donut)](https://github.com/midnit3Z0mbi3)
 </div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnit3Z0mbi3&layout=donut)](https://github.com/midnit3Z0mbi3)
+
 
 

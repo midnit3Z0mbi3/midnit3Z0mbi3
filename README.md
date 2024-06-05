@@ -20,8 +20,3 @@
 [![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:midnit3Z0mbi3@proton.me)
 </div>
 <br><br>
-
-<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnit3Z0mbi3&layout=compact)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midnit3Z0mbi3)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=midnit3Z0mbi3)](https://git.io/streak-stats)

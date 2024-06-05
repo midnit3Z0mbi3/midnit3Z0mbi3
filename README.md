@@ -9,8 +9,6 @@
     🍔 Cooking • 🧘🏽‍♂️ Yoga & Meditation  
 </pre>
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-<br><br>
 <img src="https://giffiles.alphacoders.com/121/12161.gif" alt=" Sasuke Uchiha Naruto Uzumaki Anime Naruto Gif"/>
 <br><br><br>
     
@@ -23,3 +21,5 @@
 </div>
 <br><br>
 
+<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)

@@ -9,7 +9,7 @@
     🍔 Cooking • 🧘🏽‍♂️ Yoga & Meditation  
 </pre>
 <br><br>
-<img src="https://giffiles.alphacoders.com/222/222382.gif" alt="Ghost of Tsushima: Katana Dance GIF"/>
+<img src="swords.gif" alt="Ghost of Tsushima: Katana Dance GIF"/>
 <br><br><br>
     
 

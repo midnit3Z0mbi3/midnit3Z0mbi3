@@ -9,7 +9,7 @@
     🍔 Cooking • 🧘🏽‍♂️ Yoga & Meditation  
 </pre>
 <br><br>
-<img src="mag.gif" alt="magnifying glass" width="30%" height="30%"/>
+<img src="sherlock.gif" alt="sherlock holmes cartoon with a magnifying glass" width="30%" height="30%"/>
 <br><br><br>
     
 

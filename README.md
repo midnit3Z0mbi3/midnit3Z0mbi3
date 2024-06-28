@@ -9,7 +9,7 @@
     🍔 Cooking • 🧘🏽‍♂️ Yoga & Meditation  
 </pre>
 <br><br>
-<img src="swords.gif" alt="Ghost of Tsushima: Katana Dance GIF" width="30%" height="30%"/>
+<img src="mag.gif" alt="magnifying glass" width="30%" height="30%"/>
 <br><br><br>
     
 
